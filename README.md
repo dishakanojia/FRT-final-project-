@@ -15,4 +15,6 @@ this is the final project
 ![Screenshot 2024-06-08 193714](https://github.com/dishakanojia/FRT-final-project-/assets/171165815/a2acb16b-93f9-4a53-9f9c-8f4a4babdb46)
 ## Contact us Page 
 ![Screenshot 2024-06-08 193954](https://github.com/dishakanojia/FRT-final-project-/assets/171165815/89c5ca2d-5b4f-4ae8-8859-a74ac8d83f71)
-![Screenshot 2024-06-08 193954](https://github.com/dishakanojia/FRT-final-project-/assets/171165815/89c5ca2d-5b4f-4ae8-8859-a74ac8d83f71)
+![Screenshot 2024-06-08 194004](https://github.com/dishakanojia/FRT-final-project-/assets/171165815/2aa18d8c-c613-4342-b87d-7cd4dd82d284)
+
+
